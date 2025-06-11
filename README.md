@@ -6,6 +6,10 @@ This website showcases my work as a **content creator, author, designer, and res
 
 ![Screenshot 2025-06-11 113715](https://github.com/user-attachments/assets/c0c52761-2c54-4129-9bb7-d98e7b9854de)
 
+![Screenshot 2025-06-11 113724](https://github.com/user-attachments/assets/a62df0bc-c988-46c2-8ce6-282357ecf0c0)
+
+![Screenshot 2025-06-11 113731](https://github.com/user-attachments/assets/012ba3ca-c723-4119-a1f5-3df0552ce853)
+
 ---
 
 ## 👨‍💻 About Me
