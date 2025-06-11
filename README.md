@@ -3,6 +3,9 @@
 Welcome to my portfolio!  
 This website showcases my work as a **content creator, author, designer, and researcher** — built entirely with HTML + Tailwind CSS and published using GitHub Pages.
 
+
+![Screenshot 2025-06-11 113715](https://github.com/user-attachments/assets/c0c52761-2c54-4129-9bb7-d98e7b9854de)
+
 ---
 
 ## 👨‍💻 About Me
